@@ -1,4 +1,4 @@
-# christran
+# trannchris
 Hi, i'm [Chris Tran](https://christran.dev/), an aspiring self-taught full stack web developer and software engineer from Dallas, TX. My passion for software engineering lies with using technology to make an impact and help those that need it the most.
 
 **languages and tools:**  
