@@ -1,5 +1,5 @@
 # trannchris
-Hi, i'm [Chris Tran](https://christran.dev/), a software engineer from Dallas, TX. My passion for software engineering lies with using technology to make an impact and help those that need it the most.
+Hi, I'm Chris Tran, a software engineer from Dallas, TX. My passion for software engineering lies with using technology to make an impact and help those that need it the most.
 
 **languages and tools:**  
 
